@@ -28,7 +28,7 @@ This project delivers a comprehensive Power BI analytics solution designed to ev
 
 ### Page 3: Patient Details Grid
 > *Granular record-level table view displaying individual patient identifiers, gender, age, admission dates, race, wait times, department referrals, and final admission statuses.*
-![Patient Details](Screenshot%202026-10-24%20225140.png)
+![Patient Details](Screenshot%202026-10-24%20200937.png)
 
 ---
 
